@@ -1,0 +1,16 @@
+{
+  "name": "com.iterum.log",
+  "displayName": "Iterum.Log",
+  "version": "3.0.0",
+  "unity": "2021.3",
+  "description": "Log for Iterum Framework",
+  "keywords": [],
+  "author": {
+    "name": "Team Iterum",
+    "email": "tech@iterum.global",
+    "url": "https://iterum.global/"
+  },
+  "category": "Unity",
+  "dependencies": {},
+  "type": "tool"
+}
